@@ -1,0 +1,12 @@
+--- #playbook file
+- hosts: sites
+  vars:
+    domain: "mydomain.com"
+  become: yes
+  become_user: root
+  roles:
+    - sslcerts
+    - deploy
+    - upgrade
+    - restart
+

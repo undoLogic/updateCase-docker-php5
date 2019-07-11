@@ -1,0 +1,443 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-10-23 13:25-0500\n"
+"PO-Revision-Date: 2014-10-28 11:17-0500\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: Plugin/System/Controller/OfflineActivesController.php:67
+#: Plugin/System/Controller/OfflineLiveVersionsController.php:67
+#: Plugin/System/Controller/OfflineLocationsController.php:68
+#: Plugin/System/Controller/OfflinePagesController.php:372
+#: Plugin/System/Controller/OfflineRevisionsController.php:68
+#: Plugin/System/Controller/PagesController.php:70
+msgid "Saved"
+msgstr ""
+
+#: Plugin/System/Controller/OfflineActivesController.php:70
+#: Plugin/System/Controller/OfflineLiveVersionsController.php:70
+#: Plugin/System/Controller/OfflineLocationsController.php:71
+#: Plugin/System/Controller/OfflinePagesController.php:375
+#: Plugin/System/Controller/OfflineRevisionsController.php:71
+#: Plugin/System/Controller/PagesController.php:73
+msgid "could not be saved"
+msgstr ""
+
+#: Plugin/System/Controller/OfflineActivesController.php:86
+#: Plugin/System/Controller/OfflineLiveVersionsController.php:86
+#: Plugin/System/Controller/OfflineLocationsController.php:90
+#: Plugin/System/Controller/OfflinePagesController.php:395
+#: Plugin/System/Controller/OfflineRevisionsController.php:90
+#: Plugin/System/Controller/PagesController.php:84
+msgid "Invalid id"
+msgstr ""
+
+#: Plugin/System/Controller/OfflineActivesController.php:90
+#: Plugin/System/Controller/OfflineLiveVersionsController.php:90
+#: Plugin/System/Controller/OfflineLocationsController.php:94
+#: Plugin/System/Controller/OfflinePagesController.php:399
+#: Plugin/System/Controller/OfflineRevisionsController.php:94
+#: Plugin/System/Controller/PagesController.php:88
+msgid "deleted"
+msgstr ""
+
+#: Plugin/System/Controller/OfflineActivesController.php:93
+#: Plugin/System/Controller/OfflineLiveVersionsController.php:93
+#: Plugin/System/Controller/OfflineLocationsController.php:97
+#: Plugin/System/Controller/OfflinePagesController.php:402
+#: Plugin/System/Controller/OfflineRevisionsController.php:97
+#: Plugin/System/Controller/PagesController.php:91
+msgid "NOT deleted"
+msgstr ""
+
+#: Plugin/System/Controller/OfflineActivesController.php:108
+#: Plugin/System/Controller/OfflineLiveVersionsController.php:108
+#: Plugin/System/Controller/OfflineLocationsController.php:112
+#: Plugin/System/Controller/OfflinePagesController.php:417
+#: Plugin/System/Controller/OfflineRevisionsController.php:112
+#: Plugin/System/Controller/PagesController.php:100
+msgid "No photo specified"
+msgstr ""
+
+#: Plugin/System/Controller/OfflineActivesController.php:162
+#: Plugin/System/Controller/OfflineLiveVersionsController.php:162
+#: Plugin/System/Controller/OfflineLocationsController.php:166
+#: Plugin/System/Controller/OfflinePagesController.php:471
+#: Plugin/System/Controller/OfflineRevisionsController.php:166
+#: Plugin/System/Controller/PagesController.php:146
+msgid "Trouble sending"
+msgstr ""
+
+#: Plugin/System/Controller/TicketsController.php:38
+msgid "Your password has been changed"
+msgstr ""
+
+#: Plugin/System/Controller/TicketsController.php:42
+msgid "This ticket has expired or is not valid, please create a new one"
+msgstr ""
+
+#: Plugin/System/Controller/TicketsController.php:46
+msgid "passwords do not match"
+msgstr ""
+
+#: Plugin/System/Controller/UsersController.php:200
+msgid "You are now logged in"
+msgstr ""
+
+#: Plugin/System/Controller/UsersController.php:208
+msgid "Username or password is incorrect"
+msgstr ""
+
+#: Plugin/System/Controller/UsersController.php:233
+msgid "Email sent, please check your email to reset your password"
+msgstr ""
+
+#: Plugin/System/Controller/UsersController.php:237
+msgid "Error; please call customer service"
+msgstr ""
+
+#: Plugin/System/Controller/UsersController.php:240
+msgid "No email exists"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:87;159
+msgid "Compare DATABASE (undotest - live)"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:93
+msgid ""
+"Verify no changes since you setup the testing (ONLY WORKS WITH WWW AND "
+"TESTING: other subdomains is not compatible)"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:196;634
+msgid "Compare TESTING with LIVE"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:237;628
+msgid "Compare backup with new version"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:279
+msgid "Debug mode ON"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:284
+msgid "Debug mode OFF"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:296
+msgid "Start up"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:303
+msgid "Min Install"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:321
+msgid "View "
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:324
+msgid "(erase)"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:348
+msgid "Install OfflineBox"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:363
+msgid "Create cms pages table"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:369
+msgid "upgrade CMS to meta version"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:379
+msgid "Setup scripts"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:385
+msgid "Create users table"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:390
+msgid "Create tickets table"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:395
+msgid "Create express login table"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:403
+msgid "Import Module"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:444
+msgid "update payments table with paypal fields"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:468
+msgid "print out TEST database"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:474
+msgid "Copy Table to Desc"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:483
+msgid "copy column to external"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:622
+msgid "View Styles"
+msgstr ""
+
+#: Plugin/System/View/Admins/developer_index.ctp:640
+msgid "Compare DATABASE"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/display.ctp:51
+msgid "CMS is not installed"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/menu.ctp:40
+msgid "Admin Menu"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/menu.ctp:48
+msgid "Cms menu"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/menu.ctp:64
+msgid "Edit Page"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/menu.ctp:74
+msgid "Change Identity"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/menu.ctp:86
+msgid "View Revisions"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/menu.ctp:96
+msgid "Export content"
+msgstr ""
+
+#: Plugin/System/View/Elements/cms/menu.ctp:104
+msgid "Logout"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_edit.ctp:15
+#: Plugin/System/View/OfflineLiveVersions/admin_edit.ctp:15
+#: Plugin/System/View/OfflineLocations/admin_edit.ctp:15
+#: Plugin/System/View/OfflinePages/admin_edit.ctp:15
+#: Plugin/System/View/OfflineRevisions/admin_edit.ctp:15
+#: Plugin/System/View/Pages/admin_edit.ctp:13
+msgid "Edit "
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_edit.ctp:22
+#: Plugin/System/View/OfflineLiveVersions/admin_edit.ctp:22
+#: Plugin/System/View/OfflineLocations/admin_edit.ctp:22
+#: Plugin/System/View/OfflinePages/admin_edit.ctp:22
+#: Plugin/System/View/OfflineRevisions/admin_edit.ctp:22
+#: Plugin/System/View/Pages/admin_edit.ctp:18
+#: Plugin/System/View/Users/forgot.ctp:31
+msgid "Submit"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:10
+#: Plugin/System/View/OfflineLiveVersions/admin_index.ctp:10
+#: Plugin/System/View/OfflineLocations/admin_index.ctp:18
+#: Plugin/System/View/OfflinePages/admin_index.ctp:18
+#: Plugin/System/View/OfflineRevisions/admin_index.ctp:18
+msgid "Add"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:16
+#: Plugin/System/View/OfflineLiveVersions/admin_index.ctp:16
+#: Plugin/System/View/OfflineLocations/admin_index.ctp:24
+#: Plugin/System/View/OfflinePages/admin_index.ctp:24
+#: Plugin/System/View/OfflineRevisions/admin_index.ctp:24
+#: Plugin/System/View/Pages/admin_index.ctp:22
+msgid "search"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:21
+#: Plugin/System/View/OfflineLiveVersions/admin_index.ctp:21
+#: Plugin/System/View/OfflineLocations/admin_index.ctp:29
+#: Plugin/System/View/OfflinePages/admin_index.ctp:29
+#: Plugin/System/View/OfflineRevisions/admin_index.ctp:29
+#: Plugin/System/View/Pages/admin_index.ctp:27
+msgid "Actions"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:30
+#: Plugin/System/View/OfflineLiveVersions/admin_index.ctp:30
+#: Plugin/System/View/OfflineLocations/admin_index.ctp:40
+#: Plugin/System/View/OfflinePages/admin_index.ctp:40
+#: Plugin/System/View/OfflineRevisions/admin_index.ctp:40
+#: Plugin/System/View/Pages/admin_index.ctp:36
+msgid "View"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:34
+#: Plugin/System/View/OfflineLiveVersions/admin_index.ctp:34
+#: Plugin/System/View/OfflineLocations/admin_index.ctp:44
+#: Plugin/System/View/OfflinePages/admin_index.ctp:44
+#: Plugin/System/View/OfflineRevisions/admin_index.ctp:44
+#: Plugin/System/View/Pages/admin_index.ctp:39
+msgid "Edit"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:38
+#: Plugin/System/View/OfflineLiveVersions/admin_index.ctp:38
+#: Plugin/System/View/OfflineLocations/admin_index.ctp:48
+#: Plugin/System/View/OfflinePages/admin_index.ctp:48
+#: Plugin/System/View/OfflineRevisions/admin_index.ctp:48
+#: Plugin/System/View/Pages/admin_index.ctp:42
+msgid "Delete"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:41
+#: Plugin/System/View/OfflineLiveVersions/admin_index.ctp:41
+#: Plugin/System/View/OfflineLocations/admin_index.ctp:51
+#: Plugin/System/View/OfflinePages/admin_index.ctp:51
+#: Plugin/System/View/OfflineRevisions/admin_index.ctp:51
+#: Plugin/System/View/Pages/admin_index.ctp:44
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: Plugin/System/View/OfflineActives/admin_index.ctp:48
+msgid "Live version"
+msgstr ""
+
+#: Plugin/System/View/Pages/admin_index.ctp:12
+msgid "Add new"
+msgstr ""
+
+#: Plugin/System/View/Pages/admin_menu.ctp:7
+msgid "Manage Template system"
+msgstr ""
+
+#: Plugin/System/View/Pages/admin_setup.ctp:13
+msgid "Upload File"
+msgstr ""
+
+#: Plugin/System/View/Tickets/setup.ctp:18
+msgid "Please enter the KEY"
+msgstr ""
+
+#: Plugin/System/View/Users/forgot.ctp:24
+msgid "Please enter your email address"
+msgstr ""
+
+#: View/Elements/2014summer/banner.ctp:17
+msgid "read more"
+msgstr "lire plus"
+
+#: View/Elements/2014summer/main-menu.ctp:23
+msgid "Home"
+msgstr "Accueil"
+
+#: View/Elements/2014summer/main-menu.ctp:30
+msgid "About"
+msgstr "À propos"
+
+#: View/Elements/2014summer/main-menu.ctp:42
+msgid "Our Team"
+msgstr "Notre équipe "
+
+#: View/Elements/2014summer/main-menu.ctp:53
+msgid "Our Approach"
+msgstr "Notre Approche "
+
+#: View/Elements/2014summer/main-menu.ctp:70
+msgid "Services"
+msgstr ""
+
+#: View/Elements/2014summer/main-menu.ctp:79
+msgid "Integration"
+msgstr "Services d’Intégration "
+
+#: View/Elements/2014summer/main-menu.ctp:89
+msgid "Individualized Therapy"
+msgstr "Thérapie Individualisée"
+
+#: View/Elements/2014summer/main-menu.ctp:100
+msgid "Early start play group"
+msgstr "Groupe précoce de jeu "
+
+#: View/Elements/2014summer/main-menu.ctp:111
+msgid "Educational Services"
+msgstr "Services Éducatifs "
+
+#: View/Elements/2014summer/main-menu.ctp:121
+msgid "Parent Coaching"
+msgstr "Coaching Parental "
+
+#: View/Elements/2014summer/main-menu.ctp:132
+msgid "Other"
+msgstr "Autres"
+
+#: View/Elements/2014summer/main-menu.ctp:147
+msgid "Contact Us"
+msgstr "Coordonnées"
+
+#: View/Layouts/default.ctp:180
+msgid "All Rights Reserved"
+msgstr "tous droits réservés"
+
+#: Plugin/System/Model/OfflineActive.php:validation for field
+#: offline_live_version_id Plugin/System/Model/OfflineLanguage.php:validation
+#: offline_location_id Plugin/System/Model/OfflineLocation.php:validation
+#: offline_page_id;validation offline_location_type_id
+#: Plugin/System/Model/OfflinePage.php:validation
+#: offline_live_version_id;validation variant_id;validation
+#: offline_page_type_id Plugin/System/Model/OfflineRevision.php:validation
+msgid "numeric"
+msgstr ""
+
+#: Plugin/System/Model/OfflineLanguage.php:validation for field lang
+#: Plugin/System/Model/OfflineLocation.php:validation name
+#: Plugin/System/Model/OfflineLocationType.php:validation
+#: Plugin/System/Model/OfflinePage.php:validation
+msgid "notempty"
+msgstr ""
+
+#~ msgid "Message Sent"
+#~ msgstr "message envoyé"
+
+#~ msgid "Please fill in required fields"
+#~ msgstr "S'il vous plaît remplir les champs obligatoires"
+
+#~ msgid "View Gallery"
+#~ msgstr "voir la galerie"
+
+#~ msgid "Gallery"
+#~ msgstr "galerie"
+
+#~ msgid "Name"
+#~ msgstr "Nom:"
+
+#~ msgid "Email"
+#~ msgstr "Courriel"
+
+#~ msgid "Phone"
+#~ msgstr "Téléphone"
+
+#~ msgid "Send"
+#~ msgstr "envoyer"

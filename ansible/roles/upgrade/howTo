@@ -1,0 +1,9 @@
+#to upgrade to the latest security packages
+#staging
+ansible-playbook site.yml --ask-become-pass --ask-vault-pass --verbose --diff -i hosts-staging --tags "upgrade" --check
+
+#LIVE
+ansible-playbook site.yml --ask-become-pass --ask-vault-pass --verbose --diff -i hosts-production --tags "upgrade" --check
+
+#AWS
+ansible-playbook site.yml --ask-become-pass --ask-vault-pass --verbose --diff -i hosts-aws --tags "upgrade" --check

@@ -1,0 +1,22 @@
+---
+- name: Update and upgrade apt packages
+  tags:
+    - upgrade
+  become: true
+  apt:
+    upgrade: yes
+    update_cache: yes
+    cache_valid_time: 86400 #One day
+
+- name: Restart Apache
+  tags:
+    - upgrade
+  service:
+    name: apache2
+    state: restarted
+
+- name: Reboot system if requred
+  tags:
+    - upgrade
+  command: shutdown -r now 'Rebooting'
+    removes=/var/run/reboot-required

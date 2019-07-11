@@ -1,0 +1,7 @@
+#to restart the servers
+
+#staging
+ansible-playbook site.yml --ask-become-pass --verbose --diff -i hosts-staging --tags "restart"
+
+#LIVE
+ansible-playbook site.yml --ask-become-pass --verbose --diff -i hosts-production --tags "restart"

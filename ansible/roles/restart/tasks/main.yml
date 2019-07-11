@@ -1,0 +1,6 @@
+---
+- name: Reboot system if requred
+  tags:
+    - restart
+  command: shutdown -r now 'Rebooting'
+    removes=/var/run/reboot-required
